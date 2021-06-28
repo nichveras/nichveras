@@ -15,4 +15,4 @@ software creation and Blockchain.
  - I love coffee with a good read!
 
 ##### "Eu sou aquilo que sei. Quanto mais eu sei, mais eu sou"🧠
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/nicholas-de-abreu-259393215/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicholas-de-abreu-259393215/)
