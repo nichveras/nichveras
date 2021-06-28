@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey! 👋
 
-<!--
-**nichveras/nichveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nicholas Veras! Welcome to my profile! 
+I'm From Brazil 🌎 
+I graduated in IT Management 👨‍💻;
+I have great interests in the area of development, 
+software creation and Blockchain.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About me 👨‍💻
+ 
+ - My favourite language is Java.
+ - I like to practice English in my spare time.
+ - I love coffee with a good read!
+
+##### "Eu sou aquilo que sei. Quanto mais eu sei, mais eu sou"🧠
