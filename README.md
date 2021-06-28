@@ -17,4 +17,4 @@ software creation and Blockchain.
 ##### "Eu sou aquilo que sei. Quanto mais eu sei, mais eu sou"🧠
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nichveras)](https://github.com/nichveras)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatonicholasveras.dev@gmail.com)](mailto:contatonicholasveras.dev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-de-abreu-259393215/)]
+[![LinkedIn Badge](https://img.shields.io/badge/-Nicholas%20de%20Abreu-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nicholas-de-abreu-259393215/)]
