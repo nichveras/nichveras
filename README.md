@@ -20,9 +20,6 @@ software creation and Blockchain.
 
 ##### "Eu sou aquilo que sei. Quanto mais eu sei, mais eu sou"🧠
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicholas-de-abreu-259393215/)
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicholas-de-abreu-259393215/" height="30" width="40" /></a>
-<a href="https://instagram.com/nicholasveras.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicholasveras.dev" height="30" width="40" /></a>
-</p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
