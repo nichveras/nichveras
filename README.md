@@ -3,8 +3,8 @@
 I'm Nicholas Veras! Welcome to my profile! 
 I'm From Brazil 🌎 
 I graduated in IT Management 👨‍💻;
-I have great interests in the area of development, 
-software creation and Blockchain.
+I have great interests in the area of development and
+software creation.
 
 
 
