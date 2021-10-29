@@ -3,8 +3,8 @@
 I'm Nicholas Veras! Welcome to my profile! 
 I'm From Brazil 🌎 
 I graduated in IT Management 👨‍💻;
-I have great interests in the area of development and
-software creation.
+I am currently studying an MBA in Data Science 
+and Analytics at the University of São Paulo - USP
 
 
 
@@ -12,7 +12,8 @@ software creation.
 
 ### About me 👨‍💻
 
-- My favourite language is Java.
+- I have great interests in the area of ​​software development,
+Data Science and Business analytics.
 - I like to practice English in my spare time.
 - I love coffee with a good read!
 - Fun fact **I'm a classical music fan**
