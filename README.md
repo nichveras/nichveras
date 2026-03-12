@@ -112,10 +112,13 @@ Simulação de gerenciamento de bugs no estilo Jira.
 🔗 Projeto  
 https://github.com/nichveras/qa-bug-tracking
 
-## 🎓 Formação
-Gestão em Tecnologia da Informação + cursos focados em QA, testes e automação.
-Pós graduação em Gestão da Qualidade de Software - Cursando
-Mba Em Data Science e Analytics 
+🎓 Formação
+
+• Gestão em Tecnologia da Informação  
+• Pós-graduação em Gestão da Qualidade de Software  
+• MBA em Data Science & Analytics (cursando)
+
+Complementação com cursos focados em QA, automação de testes e qualidade de software.
 
 ## 🌎 Contato
 
