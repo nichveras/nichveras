@@ -58,20 +58,59 @@ Principais cenários automatizados:
 🔗 Repositório  
 https://github.com/nichveras/qa-cypress-real-tests
 
----
+### 🧪 QA Test Documentation
+Documentação completa de QA utilizada em projetos reais de software.
 
-# Outros Projetos QA
-
-### Documentação de QA
-Templates profissionais de documentação utilizados no processo de testes.
-
-Inclui:
+📂 Inclui:
 - Plano de Testes
 - Casos de Teste
-- Relatório de Bugs
+- Relatórios de Bugs
+- Estratégia de Testes
 
-🔗 Repositório  
+🔗 Projeto  
 https://github.com/nichveras/qa-test-documentation
+
+---
+
+### ⚡ Automação de Testes com Cypress + CI/CD
+Projeto de automação E2E com pipeline de integração contínua.
+
+📂 Tecnologias:
+- Cypress
+- GitHub Actions
+- CI/CD
+- Testes automatizados
+
+🔗 Projeto  
+https://github.com/nichveras/qa-cypress-ci-cd
+
+---
+
+### 🔎 QA API Testing com Postman
+Testes de API utilizando coleções automatizadas.
+
+📂 Inclui:
+- Requests REST
+- Testes automatizados
+- Validação de respostas
+- Ambiente de testes
+
+🔗 Projeto  
+https://github.com/nichveras/qa-api-testing-postman
+
+---
+
+### 🐞 Bug Tracking Simulation
+Simulação de gerenciamento de bugs no estilo Jira.
+
+📂 Inclui:
+- Bug Reports
+- Prioridade e severidade
+- Evidências de testes
+- Fluxo de correção
+
+🔗 Projeto  
+https://github.com/nichveras/qa-bug-tracking
 
 ## 🎓 Formação
 Gestão em Tecnologia da Informação + cursos focados em QA, testes e automação.
