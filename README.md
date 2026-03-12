@@ -125,4 +125,4 @@ Complementação com cursos focados em QA, automação de testes e qualidade de 
 - 💼 LinkedIn: https://www.linkedin.com/in/nicholas-veras-259393215/
 - 📧 Email: nicholasvdeabreu@gmail.com
 
-⭐ Se curtir algum projeto, deixe uma estrela — isso me ajuda bastante!
+⭐ Se curtir algum projeto, deixe uma estrela isso me ajuda bastante!
