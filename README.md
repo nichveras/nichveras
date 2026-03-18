@@ -116,7 +116,7 @@ https://github.com/nichveras/qa-bug-tracking
 
 • Gestão em Tecnologia da Informação  
 • Pós-graduação em Gestão da Qualidade de Software  
-• MBA em Data Science & Analytics (cursando)
+• MBA em Data Science & Analytics 
 
 Complementação com cursos focados em QA, automação de testes e qualidade de software.
 
