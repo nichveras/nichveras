@@ -46,6 +46,14 @@
 
 ## 📌 Projetos em destaque
 
+### QA Board - ferramenta de gestão de testes para equipes de qualidade
+
+Principais Funcionalidades: 
+- Ferramenta de gestão de casos de teste para equipes de qualidade, construída com HTML, CSS e JavaScript puro.
+  
+🔗 Repositório  
+https://github.com/nichveras/qa-board
+
 ### Automação de Testes E2E com Cypress
 Projeto de automação de testes end-to-end utilizando Cypress para validar fluxos críticos de uma aplicação web.
 
@@ -70,8 +78,6 @@ Documentação completa de QA utilizada em projetos reais de software.
 🔗 Projeto  
 https://github.com/nichveras/qa-test-documentation
 
----
-
 ### ⚡ Automação de Testes com Cypress + CI/CD
 Projeto de automação E2E com pipeline de integração contínua.
 
@@ -84,8 +90,6 @@ Projeto de automação E2E com pipeline de integração contínua.
 🔗 Projeto  
 https://github.com/nichveras/qa-cypress-ci-cd
 
----
-
 ### 🔎 QA API Testing com Postman
 Testes de API utilizando coleções automatizadas.
 
@@ -97,8 +101,6 @@ Testes de API utilizando coleções automatizadas.
 
 🔗 Projeto  
 https://github.com/nichveras/qa-api-testing-postman
-
----
 
 ### 🐞 Bug Tracking Simulation
 Simulação de gerenciamento de bugs no estilo Jira.
