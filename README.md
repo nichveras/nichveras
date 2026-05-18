@@ -46,7 +46,7 @@
 
 ## 📌 Projetos em destaque
 
-### QA Board - ferramenta de gestão de testes para equipes de qualidade
+### ⚡ QA Board - ferramenta de gestão de testes para equipes de qualidade
 
 Principais Funcionalidades: 
 - Ferramenta de gestão de casos de teste para equipes de qualidade, construída com HTML, CSS e JavaScript puro.
@@ -54,7 +54,7 @@ Principais Funcionalidades:
 🔗 Repositório  
 https://github.com/nichveras/qa-board
 
-### Automação de Testes E2E com Cypress
+### ⚡ Automação de Testes E2E com Cypress
 Projeto de automação de testes end-to-end utilizando Cypress para validar fluxos críticos de uma aplicação web.
 
 Principais cenários automatizados:
