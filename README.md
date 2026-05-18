@@ -66,6 +66,17 @@ Principais cenários automatizados:
 🔗 Repositório  
 https://github.com/nichveras/qa-cypress-real-tests
 
+### ⚡ QA Praticas de Testes Manuais 
+📂 Inclui:
+- Cenários de Testes
+- Analise de Requisitos
+- Plano de Testes
+- Relatório de Bugs
+- Relatório dos Testes
+  
+🔗 Projeto  
+https://github.com/nichveras/PraticaTestesManuais
+
 ### 🧪 QA Test Documentation
 Documentação completa de QA utilizada em projetos reais de software.
 
