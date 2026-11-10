@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Nicholas Veras
 
-**QA Engineer | Software Quality Assurance**  
+**Dev Fullstack/QA Engineer**  
 🧪 Testes Manuais • Automação • API Testing • Qualidade de ponta a ponta
 > Meu foco é ajudar times a entregarem software mais **confiável**, com **menos retrabalho** e **feedback rápido** por meio de testes bem planejados, automação pragmática e validação de APIs.
 
